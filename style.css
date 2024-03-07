@@ -16,6 +16,9 @@ header{
     letter-spacing: 5px;
     color: #322f2f;
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
 }    
 
 footer{

@@ -30,19 +30,10 @@ footer{
 
 .video{
     margin: 0 auto;
-    box-shadow: #efebe0 0 0 5px 5px; 
-    width: 300px;
-    height: 100px;
+    padding-top: 60px;
+    padding-bottom: 50px;
     text-align: center;
-    border-left: #efebe0 solid 10px;
-    border:#efebe0 solid 1px;
-    padding: 40px;
-    background-color: #efebe0;
-    font-family: "Zen Maru Gothic", serif;
-    font-weight: 500;
-    font-style: normal;  
-    letter-spacing: 1px;
-}
+    }
 
 
 a {

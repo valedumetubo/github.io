@@ -1,10 +1,4 @@
 
-@media (max-width: 768px) {
-  .title, .header {
-    width: 100%;
-  }
-}
-
 
 .container{
     background-color: #ffff;
@@ -21,6 +15,7 @@ header{
     font-style: normal;
     letter-spacing: 5px;
     color: #322f2f;
+    white-space: nowrap;
 }    
 
 footer{

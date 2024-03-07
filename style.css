@@ -1,4 +1,11 @@
 
+@media (max-width: 768px) {
+  .title, .header {
+    width: 100%;
+  }
+}
+
+
 .container{
     background-color: #ffff;
 }

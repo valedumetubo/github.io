@@ -1,6 +1,7 @@
 
 .container{
-    background-color: #ffff;
+  background-image: url("flower.png");
+  background-attachment: fixed;
 }
 
 
